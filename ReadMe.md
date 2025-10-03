@@ -1,4 +1,4 @@
-# Indian Flight Ticket Trends: Post-Covid EDA & Dashboard ✈️
+# Indian Flight Ticket Trends: Post-Covid EDA & Dashboard 
 
 ## Overview 🎯
 
